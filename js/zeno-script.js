@@ -76,7 +76,7 @@ function Page() {
     }
 
     this.refreshCover = function (song = '', artist) {
-        const Commercial_Break = "https://live.staticflickr.com/65535/53805955404_bc1c26a8c8_z.jpg";
+        const Commercial_Break = 'https://images2.imgbox.com/85/3d/Vwz9Jt8G_o.png';
         const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
         const TS = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5GlUhLfq46cQDunTm2S2us2yYjEZ6lGY-nBs2nmwbCxO_3YHalyl0t772xf66ZYQoi4OdSZbknJUl5wvAaM-c45HmJcpnScwsfYD_sd4IVWTYkc-V6qqKGk3DVooBBASOcqpCdQa2fENlWh4vHr4DkKlxn7MnKj3PB_An7HavfcW_NqtZO-yPBKce-oq/s1600/TimeSignal.jpg';
