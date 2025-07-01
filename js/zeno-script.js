@@ -76,10 +76,10 @@ function Page() {
     }
 
     this.refreshCover = function (song = '', artist) {
-        const Commercial_Break = 'https://cdn.bintangtenggarafm.com/img/Commercial_Break.png';
+        const Commercial_Break = 'https://thumbs2.imgbox.com/72/80/Lx5Pfgo0_t.png';
         const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
         const Jingle_Setelah_iklan = 'https://cdn.bintangtenggarafm.com/img/Jingle_Setelah_iklan.jpg';
-        const TS = 'https://cdn.bintangtenggarafm.com/img/TimeSignal.jpg';
+        const TS = 'https://warningfm.github.io/v3/img/HSrnise.png';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
         const JINGLE = 'https://live.staticflickr.com/65535/53972560837_ea09aaf6f2_b.jpg';
         const TANDAWAKTUSHOLATDHUHUR = 'https://live.staticflickr.com/65535/53815587960_2ded7e8990_z.jpg';
