@@ -2,7 +2,7 @@
  LUNA RADIO PLAYER V5.21.01.28
  https://www.luna-universe.com
 
- Copyright (C) NNG.NET | 2024
+ lunaradio-cors (C) NNG.NET | 2024
  https://mbahnunungonline.net/live
 
 */
