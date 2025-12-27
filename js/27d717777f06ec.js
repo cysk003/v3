@@ -7,13 +7,13 @@
 
     $.kast({
         host: 'asv.alhastream.com',
-        port: 3210,
+        port: 3310,
         protocol: 'https',
         version: 2,  
         sid: 1,  
         direct: true,  
         betaProxies: false,
-        //directStreamURL: 'https://asv.alhastream.com:3210/rbtradio',
+        //directStreamURL: 'https://asv.alhastream.com:3310/rbtfm',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false, 
         minimizeMaximize: true,
