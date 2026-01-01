@@ -483,6 +483,11 @@ https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1B3sqJ.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="4K.TRAVEL.TV.distro" tvg-chno="" tvg-name="4K TRAVEL TV", 4K Travel TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FXrdHW.jpg" group-title="Lifestyle", TRAVEL CHANNEL
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
+
 ########################################################           Religious           ########################################################
 
 #EXTVLCOPT:http-referrer=https://www.vidio.com
