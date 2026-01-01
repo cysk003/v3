@@ -422,6 +422,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/439xgNZ.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC HD" tvg-country="id" tvg-language="id", TLC Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4f860Bl.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="TravelChannel.id" tvg-name="Travel Channel", Travel Channel
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -482,11 +487,6 @@ https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1B3sqJ.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="4K.TRAVEL.TV.distro" tvg-chno="" tvg-name="4K TRAVEL TV", 4K Travel TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4f860Bl.png" group-title="Lifestyle" tvg-id="TravelChannel.id" tvg-chno="" tvg-name="Travel Channel", Travel Channel
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
 
 ########################################################           Religious           ########################################################
 
