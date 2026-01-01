@@ -996,11 +996,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M806UiK.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Tapactionflix Hd.ph" tvg-name="Tapactionflix Hd.ph", TapAction Flix HD
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ArkjNd6.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Tapmovies.Hd.ph" tvg-name="Tapmovies Hd", Tapmovies Hd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
@@ -1703,12 +1698,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 ########################################################           Transvision           ########################################################
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/thumbh_20220613_202042.png" group-title="Outdoors" tvg-id="Outside.distro" tvg-name="Outside", Outside
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
-#EXTINF:-1 channel-id="plex.tv.Motorvision.TV.plex" tvg-id="plex.tv.Motorvision.TV.plex" tvg-chno="" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="Outdoors", Motorvision TV
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-603fb593a99efc002dbf90e4.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="Outdoors",True History
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+
 
 ########################################################           Radio           ########################################################
 
