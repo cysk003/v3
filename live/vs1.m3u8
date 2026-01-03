@@ -1588,7 +1588,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3HN0wFp.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="12" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3HN0wFp.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
 http://cdn.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -1601,12 +1601,12 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgDyBOBs_3zSz9tBaeXWUzxnTTkny7rYGnkQZZPhiQaQy59xSMXU9MzlMXF82vTYmikL9ziSjYMQcb617TfSUgm-RyU5iPbq5GbnyR5076TTSpk1qnMZZmZsrSWBYfeN9ihV2n8NpvdQ5BcS4f0oMBPN76KwVYBZ2g0ggmDSShXkI6A2AOk8rWyP4G8C5q/s1600/5aGd5Nc.png?v=1.1.1.1" group-title="INDIHOME" group-logo="" ch-number="" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgDyBOBs_3zSz9tBaeXWUzxnTTkny7rYGnkQZZPhiQaQy59xSMXU9MzlMXF82vTYmikL9ziSjYMQcb617TfSUgm-RyU5iPbq5GbnyR5076TTSpk1qnMZZmZsrSWBYfeN9ihV2n8NpvdQ5BcS4f0oMBPN76KwVYBZ2g0ggmDSShXkI6A2AOk8rWyP4G8C5q/s1600/5aGd5Nc.png?v=1.1.1.1" group-title="INDIHOME" group-logo="https://i.imgur.com/4q0RyFD.png" ch-number="" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="INDIHOME" group-logo="" ch-number="" tvg-id="iNews.id" tvg-name="iNews", iNews
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="INDIHOME" group-logo="https://i.imgur.com/4q0RyFD.png" ch-number="" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
