@@ -1638,26 +1638,26 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Koxi4M1.png" group-title="First Media" group-logo="https://stb.mbahnunungonline.net/img/xxzTGpq.png?v=1.0.0.1" tvg-id="Moji.id" tvg-name="Moji", Moji
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Koxi4M1.png" group-title="First Media" group-logo="https://i.imgur.com/xxzTGpq.png?v=1.0.0.1" tvg-id="Moji.id" tvg-name="Moji", Moji
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LCBejW0.png?v=1.0.0.1" group-title="First Media" group-logo="https://stb.mbahnunungonline.net/img/xxzTGpq.png?v=1.0.0.1" tvg-id="tvOne.id" tvg-name="TVOne",TVOne HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LCBejW0.png?v=1.0.0.1" group-title="First Media" group-logo="https://i.imgur.com/xxzTGpq.png?v=1.0.0.1" tvg-id="tvOne.id" tvg-name="TVOne",TVOne HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="First Media" group-logo="https://stb.mbahnunungonline.net/img/xxzTGpq.png?v=1.0.0.1", Kompas TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png" group-title="First Media" group-logo="https://i.imgur.com/xxzTGpq.png?v=1.0.0.1", Kompas TV
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="First Media" group-logo="https://stb.mbahnunungonline.net/img/xxzTGpq.png?v=1.0.0.1", Metro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="First Media" group-logo="https://i.imgur.com/xxzTGpq.png?v=1.0.0.1", Metro TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 ########################################################           Oxygen           ########################################################
