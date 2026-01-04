@@ -1519,8 +1519,7 @@ https://www.xozilla.com/get_file/16/52f03576351e0b00450c6bcf5b6134fa/324000/3240
 https://sv.stri.my.id:3310/rbtfm
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
-#https://stream.zeno.fm/kc67gypcxghtv
-http://kano.mbahnunungonline.net:8000/mbahnunungonline
+https://a7.alhastream.com:5423/radio
 
 #EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/uruc4a9.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
