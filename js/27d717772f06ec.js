@@ -22,7 +22,7 @@
         },
         position: 'left',
         colors: 'dynamic',
-        theme: 'dark',
+        theme: 'dynamic',
         autoPlay: true,
         played: false
       })
