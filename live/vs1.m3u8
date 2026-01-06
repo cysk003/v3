@@ -151,7 +151,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iBrOoMG.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="28" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV", Jawa Pos TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/jawapos/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -169,7 +169,7 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Il0ann7.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="AntaraTV.id" tvg-name="Antara TV", Antara TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/antara/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -1001,7 +1001,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PZ8lqc9.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Warner.TV.HD.my" tvg-name="Warner TV", Warner TV HD
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/82/33/P08mgvVy_t.png" group-title="Movies" tvg-id="US18000163F" tvg-name="Miramax Movies Channel", Miramax Movies Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
@@ -1602,12 +1602,12 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgDyBOBs_3zSz9tBaeXWUzxnTTkny7rYGnkQZZPhiQaQy59xSMXU9MzlMXF82vTYmikL9ziSjYMQcb617TfSUgm-RyU5iPbq5GbnyR5076TTSpk1qnMZZmZsrSWBYfeN9ihV2n8NpvdQ5BcS4f0oMBPN76KwVYBZ2g0ggmDSShXkI6A2AOk8rWyP4G8C5q/s1600/5aGd5Nc.png?v=1.1.1.1" group-title="INDIHOME" group-logo="https://i.imgur.com/4q0RyFD.png" ch-number="" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="INDIHOME" group-logo="https://i.imgur.com/4q0RyFD.png" ch-number="" tvg-id="iNews.id" tvg-name="iNews", iNews
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1wdgo7sbZ5t1FM8uEYqGqTmoVxt2Sv14HuP249fqtawV7kK9KwfDJ4ExrAez6NHPNAfwRThiLWD4YUHGkDtQqHJ1K9jRGPK7p7GJAQbWcSkwC1txtCJ7ek7mKXnbyAiY863uZUMQxeKrVgXq-y993MrC5oBzhe-W_Uf30g0QMx_05I_LD1M-vw8DHpAj1/s1600/sdrwEQf.png?v=1.0.0.1" group-title="INDIHOME" ch-number="" tvg-id="ANTV.my.id" tvg-name="ANTV", ANTV
@@ -1616,12 +1616,12 @@ https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/ra
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1" group-title="INDIHOME" ch-number="" tvg-id="tvOne.id" tvg-name="tvOne", TVONE
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tvone/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="INDIHOME" tvg-id="SinPoTV.id" tvg-name="Sin Po TV", SIN PO TV (IND)
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15;) ExoPlayerLib/2.19.1
