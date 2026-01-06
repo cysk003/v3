@@ -18,7 +18,7 @@
             offlineText: 'Temporarily Offline',
             playedText: '<font face="Georgia" color="blue">Wes Mari Diputer :</font>',
             unknownTrackText: '97.2 - c^o^d^e^l^i^s^t^.^c^c', 
-            unknownArtistText: 'Radio MC FM' 
+            unknownArtistText: 'Suara Banyuwangi' 
         },
         position: 'left',
         colors: 'dynamic',
