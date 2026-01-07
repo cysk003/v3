@@ -1672,7 +1672,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ########################################################               Radio             ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/f69c7be1aa497aaa87f40d2306c4b3578.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
-https://sv.stri.my.id:3350/rbtfm
+https://sv.stri.my.id:3310/rbtfm
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
 https://a7.alhastream.com:5423/radio
