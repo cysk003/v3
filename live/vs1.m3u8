@@ -111,7 +111,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WB2ot4t.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="19" tvg-id="Mentari.TV.id" tvg-name="Mentari TV", Mentari TV
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
-#https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="20" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
@@ -301,7 +300,6 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HpQ9BOp.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="USBB11000015Q" tvg-name="Moonbug", Moonbug
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd|Referer=https://www.visionplus.id
-#https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
@@ -401,6 +399,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IxL4z61.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="Maxstream" tvg-name"Maxstream", Maxstream
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3Okzz.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://i.imgur.com/vrdKVHx.png?v=1.0.0.1", Oxygen TV
+https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/7df80d7bfc51ecd8fcdb0143731afde18c3af839/oxygen.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
@@ -1471,10 +1472,7 @@ https://i.mjh.nz/.r/discovery-fast6.m3u8
 ########################################################     Adult Lifestyle    ########################################################
 ########################################################                        ########################################################
 
-#EXTINF:-1 group-title="YouTV" tvg-logo="https://i.ibb.co.com/0tTD3wg/vtv-logo-tv.jpg", VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://raw.githubusercontent.com/Arrasyid22/inaldie/master/VTV.m3u8
-##https://flv.intechmedia.net/live/ch107.m3u8
+
 
 ########################################################         Olahraga        ########################################################
 ########################################################    Saluran | Olahraga   ########################################################
@@ -1494,33 +1492,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jZOVF6X.png?v=1.0.0.1" group-title="SPOTV" group-logo="https://i.imgur.com/gXI9D6l.png" ch-number="810" tvg-id="210" tvg-name="SPOTV2", SPOTV2
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-########################################################           SSC Sport Pack           ########################################################
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png" group-title="USA" tvg-id="National Geographic Channel.us" tvg-name="National Geographic Channel.us", National Geographic East
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png" group-title="USA" tvg-id="NatGeo WILD.us" tvg-name="NatGeo WILD.us", National Geographic Wild East
-https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
-########################################################           GO3 Sport Pack           ########################################################
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OmqilEG.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 1 (LT).lt" tvg-name="GO3 Sport 1 (LT).lt", Go3 Sport 1
-#https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
-http://de.online24.pm/play/6718/0E5BF0B5A9755BD/video.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iebbgI6.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 2 (LT).lt" tvg-name="GO3 Sport 2 (LT).lt", Go3 Sport 2
-#https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
-http://de.online24.pm/play/6719/0E5BF0B5A9755BD/video.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1NpWQS.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="tv3-sport-open.id", GO3 Sport OPEN
-#https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
-http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
 
 ########################################################           TNT Sport Pack           ########################################################
 
@@ -1555,6 +1526,24 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 #https://a1xs.vip/2000024
 
 =======================================
+
+########################################################           SSC Sport Pack           ########################################################
+########################################################           GO3 Sport Pack           ########################################################
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmqilEG.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 1 (LT).lt" tvg-name="GO3 Sport 1 (LT).lt", Go3 Sport 1
+#https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
+http://de.online24.pm/play/6718/0E5BF0B5A9755BD/video.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iebbgI6.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 2 (LT).lt" tvg-name="GO3 Sport 2 (LT).lt", Go3 Sport 2
+#https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
+http://de.online24.pm/play/6719/0E5BF0B5A9755BD/video.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1NpWQS.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="tv3-sport-open.id", GO3 Sport OPEN
+#https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
+http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
 
 ########################################################           Dens TV           ########################################################
 
@@ -1657,11 +1646,6 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd|us
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png" group-title="First Media" group-logo="https://i.imgur.com/xxzTGpq.png?v=1.0.0.1", Metro TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-########################################################           Oxygen           ########################################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3Okzz.png?v=1.0.0.1" group-title="Oxygen" group-logo="https://i.imgur.com/vrdKVHx.png?v=1.0.0.1", Oxygen TV
-https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-
 ########################################################           RCTI +           ########################################################
 
 #EXTINF:-1 group-title="RCTI+" group-logo="https://iili.io/3gTe522.png?v=1.0.0.1" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/5aGd5Nc.png", RCTI
@@ -1688,10 +1672,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-
-########################################################           Transvision           ########################################################
-
-
 
 ########################################################               Radio             ########################################################
 
