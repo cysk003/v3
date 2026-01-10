@@ -86,7 +86,7 @@ function Page() {
         const Commercial_Break = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/podUnZj.png';
         const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
-        const TS = 'https://live.staticflickr.com/65535/55033707504_f98af8838c_z.jpg';
+        const TS = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/vAFxMxc.png';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
         const jingle = 'https://lastfm.freetls.fastly.net/i/u/ar0/a25b0e8fa1772422c6ebb3dd61316df2.png';
         const TANDAWAKTUSHOLATDHUHUR = 'https://live.staticflickr.com/65535/53815587960_2ded7e8990_z.jpg';
@@ -227,7 +227,7 @@ function Page() {
     const Commercial_Break = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/podUnZj.png';
         const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
-        const TS = 'https://live.staticflickr.com/65535/55033707504_f98af8838c_z.jpg';
+        const TS = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/vAFxMxc.png';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
         const JINGLE = 'https://lastfm.freetls.fastly.net/i/u/ar0/a25b0e8fa1772422c6ebb3dd61316df2.png';
         const TANDAWAKTUSHOLATDHUHUR = 'https://live.staticflickr.com/65535/53815587960_2ded7e8990_z.jpg';
