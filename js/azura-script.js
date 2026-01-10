@@ -83,10 +83,10 @@ function Page() {
     // Default cover art
     var urlCoverArt = DEFAULT_COVER_ART;
     // Defining Track Backgrounds - Above
-        const Commercial_Break = 'https://thumbs2.imgbox.com/32/65/S8LZw7lI_t.png';
+        const Commercial_Break = 'https://live.staticflickr.com/65535/55032544297_53d5328f81_z.jpg';
         const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
-        const TS = 'https://thumbs2.imgbox.com/93/fe/zMn8oTEB_t.png';
+        const TS = 'https://live.staticflickr.com/65535/55033707504_f98af8838c_z.jpg';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
         const jingle = 'https://lastfm.freetls.fastly.net/i/u/ar0/a25b0e8fa1772422c6ebb3dd61316df2.png';
         const TANDAWAKTUSHOLATDHUHUR = 'https://live.staticflickr.com/65535/53815587960_2ded7e8990_z.jpg';
