@@ -22,7 +22,7 @@ const URL_STREAMING = 'https://asv.alhastream.com:3350/rbtfm';
 const API_URL = 'https://asv.alhastream.com/api/nowplaying/27';
 
  // Path to default cover art when none are found
-const DEFAULT_COVER_ART = 'https://i.imgur.com/5w6Eb0u.png';
+const DEFAULT_COVER_ART = 'https://live.staticflickr.com/65535/53348270508_974f5f407f_w.jpg';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
