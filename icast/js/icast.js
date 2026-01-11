@@ -14,7 +14,7 @@
 			enable_cors: false,
 			cors: "https://zet.pluginsandthemes.ro",			
 			artwork: true,
-            logo: "https://warningfm.github.io/v3/img/YORp5QA.png?t=638531136760000000",
+            logo: "https://cdn.bintangtenggarafm.com/img/rbt-cover.png",
 			servertitle: "My Radio Title", //For Shoutcast v1 server
             show_listeners: false,    
             src: "",
