@@ -6,8 +6,8 @@
 // =============================================== //
 
     $.kast({
-        host: 'ssg.streamingmurah.com',
-        port: 9560,
+        host: 's3.free-shoutcast.com',
+        port: 18034,
         protocol: 'https',
         version: 2,
         //directStreamURL: 'https://cast4.mbahnunungonline.net/proxy/mbahnunung55?mp=/stream',
@@ -20,3 +20,4 @@
         autoPlay: true,
         played: false
       })
+
