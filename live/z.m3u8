@@ -1121,7 +1121,7 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 ########################################################           RADIO           ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn.bintangtenggarafm.com/img/f69c7be1aa497aaa87f40d2306c4b3578.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
-https://asv.alhastream.com:3350/rbtfm
+https://sv.stri.my.id/listen/radio_bintang_tenggara_2.0/rbtfm?type=https&amp;nocache=377274
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
 https://sv3.stri.my.id:5423/radio
