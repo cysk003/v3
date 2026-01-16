@@ -14,9 +14,13 @@
 <script src="js/icast.js?v14000"></script>
 <script>
     $("#stream").icast({
-        URL: "https://asv.alhastream.com:3310",
+	    URL: "https://asv.alhastream.com:4070",
+		version: "2",
+		//mount_point: "rbtfm",
+		enable_cors: false,
 		show_listeners: true,
-        version: "2" 
+		autoplay: true,
+      logo: "https://cdn-profiles.tunein.com/s162395/images/logod.png?t=638531136760000000"
     })
 </script>
 
