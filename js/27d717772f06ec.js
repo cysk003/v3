@@ -10,7 +10,7 @@
         version: 2,
         sid: 1,
         betaProxies: false,
-        //directStreamURL: 'hhttps://sv3.stri.my.id:5423/radio',
+        directStreamURL: 'https://sv3.stri.my.id:5423/radio',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false,
         startTemplate: 'maximized',
