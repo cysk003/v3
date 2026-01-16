@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="title" content="rbt" />
+<meta name="author" content="rbt" />
+<meta name="owner" content="rbt" />
+<title>Bintang Tenggara - Live Streaming</title>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  background: url(tpl/images/bgr_streaming.gif);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #000000;
+}
+.judul {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #000000;
+}
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<link href="https://warningfm.github.io/v3/css/jquery.nng.min.css?build=13150" type="text/css" rel="stylesheet">
+<script src="https://warningfm.github.io/v3/js/main.46aca9ba.js?build=13150"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" type="text/css" rel="stylesheet">
+<script>
+$( document ).ready(function() {
+$.kast({
+        host: 'sv3.stri.my.id'',
+        port: 5423,
+        version: 2,
+	    protocol: 'https',
+	    //directStreamURL: 'https://asv.alhastream.com:3350/rbtfm', 
+	    defaultArtwork: ['https://cdn.bintangtenggarafm.com/img/f69c7be1aa497aaa87f40d2306c4b3577.png'],
+	    colors: 'dynamic',
+	    theme: 'dynamic',
+        container: '#new_player',
+        autoPlay: true,
+        startTemplate: 'maximized',
+	    statusBar: false,
+	    played: false,
+        mobileCare: false,
+	    onPause: function (audio) { audio.load() }
+    })
+});
+</script>
+<style>
+#new_player {margin: 7px 0;}
+.kast-primary-cyan #kast-top, .kast-primary-cyan.kast-colored .kast-top-content { background-color: #0050ac !important; }
+.kast-accent-yellow #kast-play { background: #f59320 !important; }
+
+</style>
+</head>
+<body>
+<div>
+    
+    
+    <div align='center' id='new_player'></div>
+    
+</div>
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="1" style="border-top: 2px solid #09a68d">
+  <tr>
+    
+  </tr>
+</table>
+</body>
+</html>
