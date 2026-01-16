@@ -13,7 +13,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 const RADIO_NAME = 'Radio Bintang Tenggara';
 
 // Change Zeno Stream URL Here
-const URL_STREAMING = 'https://asv.alhastream.com:3350/rbtfm';
+const URL_STREAMING = 'https://asv.alhastream.com:3350/rbtfm?type=http&amp;nocache=377274';
 
 // Change API URL Here
 const url = 'https://api.zeno.fm/mounts/metadata/subscribe/r4mpcrfwfzzuv';
