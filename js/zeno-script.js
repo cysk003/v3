@@ -22,7 +22,7 @@ const url = 'https://api.zeno.fm/mounts/metadata/subscribe/r4mpcrfwfzzuv';
 const API_KEY = "18fe07917957c289983464588aabddfb";
 
 // Change DEFAULT COVER
-const DEFAULT_COVER_ART = 'https://cdn4.mbahnunungonline.net/img/wDI5YzU.png';
+const DEFAULT_COVER_ART = 'https://warningfm.github.io/v3/img/0040238996.jpg';
 
 // Variable to control history display: true = display / false = hides
 let showHistory = false; 
