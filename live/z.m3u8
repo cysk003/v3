@@ -95,11 +95,10 @@ http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_rLZlhYj_W1mUvLUOojvd0NVu_VcYfMsQxLCajk8jp5QT4XM-RPEjBzl9mdyt0JEs7t22YmEGqrtfLLgLFHnOtv_ZfobKZj8tJeyjEiE6ZDR8DKOXMpWHW302bZVSmXu-ljk-B7pAE01goc_sdiE8Vtk2GnVaIjSkEd43hTpc2i9yFh4hMHLBwUN_pGxH/s1600/WaFICZ4.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="16" tvg-id="MDTV.my.id" tvg-name="MDTV HD", MDTV HD
 http://cdn.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58c.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2b3mw4KzqzlLCqqxYmOjpPUz4DaOxoCcJbvJQyPV_7J9GsCUFpg8guiskCZWx5JKDRk6P9C5AbZK-9376JxyKHNwQX7C1t_BUPeAuzgPxaFQNKgtnL7KAwtgNfDOpPiM7240ESNYuoo5S4Sn8mHZ90g9C8Pg_NvHezCRTmJKECngPvDS7YlJN7mPZRAe/s1600/9lJJAEK.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="17" tvg-id="KompasTV.my.id" tvg-name="Kompas TV HD", Kompas TV HD
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
+http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
