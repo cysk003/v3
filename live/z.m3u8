@@ -65,7 +65,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9zisldMxUezgyWGfUxu-SyLlJ2Zzy-3yfjjR-wey8f6OpSEm3CpzDAYEN5D01CRoWDdOaMv_kbyF86GkezXNiyALRIoLy3lEb5DCDqmFfXm6JzkcVQL54yPmmAEIFNwc4S5JZAcE9yN16GUISfWK_NR0T2CD2YqR348zbyn8c-CjAMev2i1hvHWcsY5g/s1600/0T5hxls.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="11" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="YRF.Music.distro" tvg-name="YRF Music", YRF Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
