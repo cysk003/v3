@@ -2,8 +2,11 @@
  LUNA RADIO PLAYER V5.21.01.28
  https://www.luna-universe.com
 
- Copyright (C) VOCES PTM | 2023
- https://www.vocesparatumarca.com
+ Copyright (C) SODAH | JOERG KRUEGER
+ https://www.sodah.de
+
+ lunaradio-cors (C) NNG.NET | 2024
+ https://mbahnunungonline.net/live
 
 */
 (function(d, G) {
