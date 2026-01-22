@@ -606,10 +606,13 @@ if (w.metadatatechnic === "corsproxy") {
             d("." + c + "textradionamespan").css({
                 "padding-left": "10px",
                 "padding-right": "10px",
-                margin: "0",
+                "text-transform": "Letter case",
+                "font-weight": "900",
+                "text-shadow": "2px 1px black",
+                 margin: "0",
                 "white-space": "nowrap",
                 "font-family": ka,
-                color: A
+              color: A
             }).html(ob);
             n = document.createElement("div");
             n.id = c + "textradioname";
@@ -635,10 +638,13 @@ if (w.metadatatechnic === "corsproxy") {
             d("." + c + "texttitlespan").css({
                 "padding-left": "10px",
                 "padding-right": "10px",
-                margin: "0",
+                "text-transform": "Letter case",
+                "font-weight": "900",
+                "text-shadow": "2px 1px black",
+                 margin: "0",
                 "white-space": "nowrap",
                 "font-family": ka,
-                color: A
+              color: A
             }).html("");
             n = document.createElement("div");
             n.id = c + "texttitle";
