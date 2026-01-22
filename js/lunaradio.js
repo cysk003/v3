@@ -435,8 +435,7 @@ if (w.metadatatechnic === "corsproxy") {
         }
         
 }
-		
-
+	
         function La() {
             d.ajax({
                 dataType: "xml",
@@ -758,13 +757,8 @@ if (w.metadatatechnic === "corsproxy") {
                 top: "0px",
                 height: "100%",
                 width: "100%",
-                opacity: "1.0"
-                
-    
-            });
-            
-            
-            
+                opacity: "1.0"                 
+            }); 
             
             b = document.createElement("div");
             b.id = c + "backgroundimage1";
