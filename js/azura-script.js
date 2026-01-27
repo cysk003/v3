@@ -225,7 +225,7 @@ function Page() {
     // Default cover art
     var urlCoverArt = DEFAULT_COVER_ART;
     const Commercial_Break = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/podUnZj.png';
-        const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
+        const Bintang_Tenggara = 'https://raw.githubusercontent.com/bintangtenggara/v3/master/img/Ttr3OE0.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
         const TS = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/vAFxMxc.png';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
