@@ -19,7 +19,7 @@ var API_SERVICE = 'ITUNES';
 const URL_STREAMING = 'https://sv.stri.my.id:3350/rbtfm';
 
 //NOW PLAYING AzuraCast API.
-const API_URL = 'https://asv.alhastream.com/api/nowplaying/27';
+const API_URL = 'https://sv.stri.my.id/api/nowplaying/27';
 
  // Path to default cover art when none are found
 const DEFAULT_COVER_ART = 'https://live.staticflickr.com/65535/53459011184_1df18fcc82_b.jpg';
@@ -84,7 +84,7 @@ function Page() {
     var urlCoverArt = DEFAULT_COVER_ART;
     // Defining Track Backgrounds - Above
         const Commercial_Break = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/podUnZj.png';
-        const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
+        const Bintang_Tenggara = 'https://raw.githubusercontent.com/bintangtenggara/v3/master/img/Ttr3OE0.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
         const TS = 'https://raw.githubusercontent.com/warningfm/v3/cast/img/vAFxMxc.png';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
