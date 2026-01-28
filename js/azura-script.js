@@ -16,7 +16,7 @@ const RADIO_NAME = 'Your Radio!';
 var API_SERVICE = 'ITUNES';
 
 // Change Stream Audio URL from AzuraCast Here.
-const URL_STREAMING = 'https://sv.stri.my.id:3350/rbtfm';
+const URL_STREAMING = 'https://sv.stri.my.id:3350/rbtfm?type=https&amp;nocache=377274';
 
 //NOW PLAYING AzuraCast API.
 const API_URL = 'https://sv.stri.my.id/api/nowplaying/27';
