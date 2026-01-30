@@ -10,7 +10,7 @@
         port: 18034,
         protocol: 'https',
         version: 2,
-        directStreamURL: 'https://s3.free-shoutcast.com/stream/18034',
+        directStreamURL: 'https://free.rcast.net/65479',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false,
         startTemplate: 'maximized',
@@ -20,5 +20,6 @@
         autoPlay: true,
         played: false
       })
+
 
 
