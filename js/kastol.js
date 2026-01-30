@@ -1928,7 +1928,7 @@
                 },
                 ajaxArtwork = function (artistN, trackN, noLuck) {
 
-                    var jembut = 'ea7d059d320c505c2dae59e07fc7423a';
+                    var jembut = '98c76261ff17717a4a5b9d59498b9985';
 
                     var itil = 'https://ws.audioscrobbler.com/2.0/?method=track.getInfo&api_key=' + jembut + '&artist=' + artistN + '&track=' + trackN + '&format=json',
                         turuk = 'https://ws.audioscrobbler.com/2.0/?method=artist.getinfo&api_key=' + jembut + '&artist=' + artistN + '&format=json',
