@@ -1499,21 +1499,21 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/J4JWgPx.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 1.uk" tvg-name="TNT Sports 1.uk", TNT Sports 1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/J4JWgPx.png" group-title="TNT Sport Pack" group-logo="https://i.imgur.com/z86IU4E.png" tvg-id="TNT Sports 1.uk" tvg-name="TNT Sports 1.uk", TNT Sports 1
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #https://a1xs.vip/2000021
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Hp393XI.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 2.uk" tvg-name="TNT Sports 2.uk", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Hp393XI.png" group-title="TNT Sport Pack" group-logo="https://i.imgur.com/z86IU4E.png" tvg-id="TNT Sports 2.uk" tvg-name="TNT Sports 2.uk", TNT Sports 2
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/enniazhzls/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #https://a1xs.vip/2000022
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Pb4cL6K.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 3.uk" tvg-name="TNT Sports 3.uk", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Pb4cL6K.png" group-title="TNT Sport Pack" group-logo="https://i.imgur.com/z86IU4E.png" tvg-id="TNT Sports 3.uk" tvg-name="TNT Sports 3.uk", TNT Sports 3
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 #https://a1xs.vip/2000023
 
@@ -1532,17 +1532,17 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 ########################################################           GO3 Sport Pack           ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OmqilEG.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 1 (LT).lt" tvg-name="GO3 Sport 1 (LT).lt", Go3 Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmqilEG.png" group-title="GO3 Sport Pack" group-logo="https://i.imgur.com/vUyNyMz.png" tvg-id="GO3 Sport 1 (LT).lt" tvg-name="GO3 Sport 1 (LT).lt", Go3 Sport 1
 #https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
 http://de.online24.pm/play/6718/0E5BF0B5A9755BD/video.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iebbgI6.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 2 (LT).lt" tvg-name="GO3 Sport 2 (LT).lt", Go3 Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iebbgI6.png" group-title="GO3 Sport Pack" group-logo="https://i.imgur.com/vUyNyMz.png" tvg-id="GO3 Sport 2 (LT).lt" tvg-name="GO3 Sport 2 (LT).lt", Go3 Sport 2
 #https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
 http://de.online24.pm/play/6719/0E5BF0B5A9755BD/video.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1NpWQS.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="tv3-sport-open.id", GO3 Sport OPEN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1NpWQS.png" group-title="GO3 Sport Pack" group-logo="https://i.imgur.com/vUyNyMz.png" tvg-id="tv3-sport-open.id", GO3 Sport OPEN
 #https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
 http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
 
@@ -1550,7 +1550,7 @@ http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TYpz6Yv.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://iili.io/fcoCS7s.png?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TYpz6Yv.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
