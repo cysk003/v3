@@ -1654,20 +1654,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd|
 
 ########################################################           RCTI +           ########################################################
 
-#EXTINF:-1 group-title="RCTI+" group-logo="https://iili.io/3gTe522.png?v=1.0.0.1" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/5aGd5Nc.png", RCTI
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/e3fM32C.png?v=1.0.0.1" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/5aGd5Nc.png", RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com/
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 group-title="RCTI+" group-logo="https://iili.io/3gTe522.png?v=1.0.0.1" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/cAvYUMa.png", MNCTV
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/e3fM32C.png?v=1.0.0.1" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/cAvYUMa.png", MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 group-title="RCTI+" group-logo="https://iili.io/3gTe522.png?v=1.0.0.1" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/kkQGC04.png", GTV
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/e3fM32C.png?v=1.0.0.1" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/kkQGC04.png", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -1681,10 +1681,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 ########################################################               Radio             ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/f69c7be1aa497aaa87f40d2306c4b3578.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s162395/images/logog.png?t=1717516876000" group-title="📻 Radio", Radio Bintang Tenggara
 https://sv.stri.my.id/listen/radio_bintang_tenggara_2.0/rbtfm?type=https&amp;nocache=377274
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/528/suara-banyuwangi.cba7aa74.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
 https://a7.alhastream.com:5423/radio
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/35cgxzahyytq.jpeg?v=1.0.0.1" group-title="📻 Radio", Radio Suara Soneta
