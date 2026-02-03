@@ -43,7 +43,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.my.id" tvg-name="TRANS 7 HD", Trans 7 HD
-https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/dba5daa624b8c016ab09bb1e763326c2380c4569/cdd283c9d3d43b5.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/cdd283c9d3d43b5.m3u8
 #https://gist.githubusercontent.com/warningfm/4c119c07b96ae01517268de48a9c193f/raw/1ed20f590929c731570cad6fdbeb5cf923f0f982/cdd283c9d3d43b4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
