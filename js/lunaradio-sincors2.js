@@ -747,13 +747,13 @@ if (w.metadatatechnic === "corsproxy") {
             b.appendChild(a);
             d("#" + c + "backgroundimage").css({
                 position: "absolute",
-                left: "0px !important",
+                left: "0px",
                 top: "0px",
                 height: "100%",
                 width: "100%",
                 "-webkit-filter": "blur(40px)",
                 filter: "blur(40px)",
-                opacity: "1.0"
+                opacity: "0.5"
             })
         }
 
