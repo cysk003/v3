@@ -436,8 +436,7 @@ if (w.metadatatechnic === "corsproxy") {
         
 }
 		
-
-        function La() {
+	        function La() {
             d.ajax({
                 dataType: "xml",
                 method: "GET",
