@@ -927,7 +927,7 @@ i.kast-mdi-stop:before {
 }
 
 #kast.kast-colored.kast-current {
-    height: 470px
+    height: 390px
 }
 
 #kast.kast-transparent.kast-current {
@@ -1539,4 +1539,5 @@ p#kast-np-title {
     #kast {
         display: none
     }
+
 }
