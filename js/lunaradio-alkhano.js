@@ -264,7 +264,7 @@ url: a
 success: function(v) {
 try {
 v = JSON.parse(v);
-var z = "https://i.imgur.com/eDMLJdf.png",
+var z = "",
 m = "";
 1 == v.results.length ? (z = v.results[0].artworkUrl100,
 z = z.replace("100x100bb", "1200x1200bb"), w("COVER: " + z), "" != mb && (m = v.results[0].trackViewUrl + "&app=itunes&at=" + mb), R(z, m)) : R(ra, "")
