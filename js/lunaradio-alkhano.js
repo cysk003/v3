@@ -409,6 +409,32 @@ y("", "")
 })
 }
 
+
+function Ka() {
+var b = "GET",
+a = ia + "/stats?json=1&sid=" + Eb,
+h = a,
+p = {};
+"corsproxy" == sa && (b = "GET", h = a = Ca + a, p = {});
+"fallback" == sa && (b = "POST", h = ha + "fallback.php", p = {
+url: a
+});
+d.ajax({
+dataType: "jsonp",
+method: b,
+crossDomain: !0,
+url: h,
+data: p,
+success: function(v) {
+y(v.songtitle, "")
+},
+error: function(v, z, m) {
+y("", "")
+}
+})
+}
+
+
 function La() {
 d.ajax({
 dataType: "xml",
