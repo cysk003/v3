@@ -264,7 +264,7 @@ url: a
 success: function(v) {
 try {
 v = JSON.parse(v);
-var z = "",
+var z = "https://i.imgur.com/eDMLJdf.png",
 m = "";
 1 == v.results.length ? (z = v.results[0].artworkUrl100,
 z = z.replace("100x100bb", "1200x1200bb"), w("COVER: " + z), "" != mb && (m = v.results[0].trackViewUrl + "&app=itunes&at=" + mb), R(z, m)) : R(ra, "")
@@ -276,7 +276,7 @@ error: function() {
 R(ra, "")
 }
 })
-} else R(ra, "https://i.imgur.com/eDMLJdf.png")
+} else R(ra, "")
 }
 
 function R(b, a) {
