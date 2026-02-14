@@ -1,10 +1,14 @@
 /*
-LUNA RADIO PLAYER V5.21.01.28
-https://www.luna-universe.com
+ LUNA RADIO PLAYER V5.21.01.28
+ https://www.luna-universe.com
 
-Copyright (C) SODAH | JOERG KRUEGER
-https://www.sodah.de
-Adaptado para Radio Zeno - 2023 - by Angel System
+ Copyright (C) SODAH | JOERG KRUEGER
+ https://www.sodah.de
+
+ lunaradio-cors (C) NNG.NET | 2024
+ https://mbahnunungonline.net/live
+ 
+ Adaptado para Radio Zeno - 2023 - by Angel System
 */
 (function(d, G) {
 "function" === typeof define && define.amd ? define(["jquery"], G) : d.jQuery ? G(d.jQuery) : G(d.Zepto)
