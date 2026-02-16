@@ -6,7 +6,7 @@
  Copyright (C) SODAH | JOERG KRUEGER
  https://www.sodah.de
 
- lunaradio-sincors (C) NNG.NET | 2024
+ lunaradio-sincors (C) NNG.NET | 2025
  https://mbahnunungonline.net/live
 
 */
