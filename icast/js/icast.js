@@ -14,7 +14,7 @@
 			enable_cors: false,
 			cors: "https://cors-proxy.elfsight.com",			
 			artwork: true,
-            logo: "img/cover.png",
+            logo: "img/logo.jpg",
 			servertitle: "My Radio Title", //For Shoutcast v1 server
             show_listeners: false,    
             src: "",
