@@ -1,7 +1,7 @@
-/*! iCast - Shoutcast & Icecast Web Player v1.2 (10/30/2018) - (c) 2018, Diego Navarro [dgone1988@gmail.com] */
+/*! iCast - Shoutcast & Icecast Web Player v1.2 (10/30/2018) */
 (function ($) {
     "use strict";
-	$(".icast").append('<div class="player-wpr"><div class="blur"></div><div class="player-ctr"><div class="listeners fa"></div><div class="album-cover-wpr"><div class="social-share-wpr animated"> Share<br> <a href="" target="_blank" class="social-link social-link-facebook fa animated" id="aface"></a> <a href="" target="_blank" class="social-link social-link-twitter fa animated" id="atwitter"></a></div><div class="album-cover animated"></div></div><div class="track-info-wpr"><div class="track-info-ctr"><div class="marquee"> <span class="artist-name animated">Artist</span><span> - </span><span class="songtitle animated">..</span></div></div></div><div class="ppBtn play-btn"></div><div class="servertitle"></div></div><div class="icons-left-wpr"><div class="icons-left icons-history fa"></div></div><div class="icons-right-wpr"><div class="icons-right icons-volume fa"></div><div class="icons-right icons-volumeM fa"></div></div> <input class="volume-slider" type="range" min="0" max="100" step="0.10" value="" autocomplete="off"><div class="history-wpr nodisplay"><div class="history-title">Last Played Songs</div></div></div>');
+	$(".icast").append('<div class="player-wpr"><div class="blur"></div><div class="player-ctr"><div class="listeners fa"></div><div class="album-cover-wpr"><div class="social-share-wpr animated"> Share<br> <a href="" target="_blank" class="social-link social-link-facebook fa animated" id="aface"></a> <a href="" target="_blank" class="social-link social-link-twitter fa animated" id="atwitter"></a></div><div class="album-cover animated"></div></div><div class="track-info-wpr"><div class="track-info-ctr"><div class="marquee"> <span class="artist-name animated">Artist</span><span> - </span><span class="songtitle animated">Songtitle</span></div></div></div><div class="ppBtn play-btn"></div><div class="servertitle"></div></div><div class="icons-left-wpr"><div class="icons-left icons-history fa"></div></div><div class="icons-right-wpr"><div class="icons-right icons-volume fa"></div><div class="icons-right icons-volumeM fa"></div></div> <input class="volume-slider" type="range" min="0" max="100" step="0.10" value="" autocomplete="off"><div class="history-wpr nodisplay"><div class="history-title">Mari diputer</div></div></div>');
 	$.fn.icast = function (options) {
         var settings = $.extend({
             // Default Settings
@@ -12,11 +12,11 @@
 			type: "/;type=mp3",
             streampath: "/rbtfm?icy=https",			
 			enable_cors: false,
-			cors: "https://cors.mediastreaming.it",			
+			cors: "https://cors-proxy.elfsight.com",			
 			artwork: true,
-            logo: "img/logo.jpg",
+            logo: "img/cover.png",
 			servertitle: "My Radio Title", //For Shoutcast v1 server
-            show_listeners: true,    
+            show_listeners: false,    
             src: "",
             volume: 0.75,			
             autoplay: true
@@ -31,8 +31,8 @@
         audio = new Audio();
         audio.volume = settings.volume;
         audio.preload = "auto";
-		//$(".album-cover", thisObj).css({'background-image': 'url('+ settings.logo +')', 'background-size': '100% 100%'});
-		//$(".blur", thisObj).css({'background': 'url('+ settings.logo +')', 'background-size': '100% 100%'});
+		$(".album-cover", thisObj).css({'background-image': 'url('+ settings.logo +')', 'background-size': '100% 100%'});
+		$(".blur", thisObj).css({'background': 'url('+ settings.logo +')', 'background-size': '100% 100%'});
 		
 		thisObj.each(function () {
             if(settings.autoplay == true){
@@ -354,7 +354,7 @@
                     function(data) {						
                         if (data.results.length == 1){							
                             cover = data.results[0].artworkUrl100;
-                            cover = cover.replace('100x100', '400x400');
+                            cover = cover.replace('100x100', '640x640');
 					    }
                         else {
                             var cover = settings.logo;
@@ -364,7 +364,7 @@
                         setTimeout( function(){ 
                            $(".album-cover", thisObj).removeClass("bounceInDown");
                         }, 5000 );
-                        //$(".blur", thisObj).css({'background': 'url('+ cover +')', 'background-size': '100% 100%'});
+                        $(".blur", thisObj).css({'background': 'url('+ cover +')', 'background-size': '100% 100%'});
                     },				
                 error: 
                     function() {
