@@ -12,7 +12,7 @@
 			type: "/;type=mp3",
             streampath: "/rbtfm?icy=https",			
 			enable_cors: false,
-			cors: "https://cors-proxy.elfsight.com",			
+			cors: "https://cors.mediastreaming.it",			
 			artwork: true,
             logo: "img/logo.jpg",
 			servertitle: "My Radio Title", //For Shoutcast v1 server
