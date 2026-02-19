@@ -16,7 +16,7 @@ const RADIO_NAME = 'Radio Bintang Tenggara';
 const URL_STREAMING = 'https://asv.alhastream.com:3350/rbtfm?type=http&amp;nocache=377274';
 
 // Change API URL Here
-const url = 'https://api.zeno.fm/mounts/metadata/subscribe/r4mpcrfwfzzuv';
+const url = 'https://api.zeno.fm/mounts/metadata/subscribe/kc67gypcxghtv';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
