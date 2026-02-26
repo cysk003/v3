@@ -49,7 +49,7 @@ body,html{
 	left:0;
 	width:100%;
 	height:300px; 
-	background: url(https://warningfm.github.io/v3/player/content/data/default_artwork/rbt_cover.png);
+	background: url(https://warningfm.github.io/v3/img/nocoverart.jpg);
 	background-position: 50% 50%;
     background-size: cover;
     transition: opacity 0.3s ease-in-out;
