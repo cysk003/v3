@@ -11,9 +11,9 @@ jQuery(document).ready(function($){
     lastPlayedInterval:10000,
     createHistoryList:true,
     getHistoryArtwork:true,
-    defaultHistoryArtwork: "https://i.imgur.com/wbyZ7wp.png",
+    defaultHistoryArtwork: "data/default_artwork/wbyZ7wp.png",
     getPlayerArtwork:true,
-    defaultPlayerArtwork: "https://i.imgur.com/wbyZ7wp.png",
+    defaultPlayerArtwork: "data/default_artwork/wbyZ7wp.png",
     createRadioList:false,
     };
     $("#mrp-wrapper").mrp(settings);
