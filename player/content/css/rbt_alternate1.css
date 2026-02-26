@@ -49,6 +49,7 @@ body,html{
 	left:0;
 	width:100%;
 	height:300px; 
+	background: url(https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png);
 	background-position: 50% 50%;
     background-size: cover;
     transition: opacity 0.3s ease-in-out;
