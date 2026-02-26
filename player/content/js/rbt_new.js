@@ -11,9 +11,9 @@ jQuery(document).ready(function($){
     lastPlayedInterval:10000,
     createHistoryList:true,
     getHistoryArtwork:true,
-    defaultHistoryArtwork: "data/default_artwork/rbt_cover_small.png",
+    defaultHistoryArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png",
     getPlayerArtwork:true,
-    defaultPlayerArtwork: "data/default_artwork/rbt_cover.png,
+    defaultPlayerArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png",
     createRadioList:false,
     };
     $("#mrp-wrapper").mrp(settings);
@@ -533,9 +533,9 @@ var mrpjq = jQuery;
       else if (!M && 0 < y) B();
       else if (g[y].thumb) {
         var a = g[y].artist,
-            b = g[y].title;
-        const Commercial_Break = 'https://live.staticflickr.com/65535/55032544297_53d5328f81_z.jpg';
-        const Bintang_Tenggara = 'https://cdn4.mbahnunungonline.net/img/f4lFmfc..png';
+          b = g[y].title;
+        const Commercial_Break = 'https://warningfm.github.io/v3/img/podUnZj.png';
+        const Bintang_Tenggara = 'https://cdn4.mbahnunungonline.net/img/f4lFmfc.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
         const TS = 'https://warningfm.github.io/v3/img/vAFxMxc.png';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
@@ -583,7 +583,7 @@ var mrpjq = jQuery;
         const Second_Civil = 'https://i.scdn.co/image/ab67616d0000b2732f75cb4fe81408c68d9e847d'; 
         const Ismi_Azis = 'https://i.scdn.co/image/ab67616d0000b273835d5ee8832686e418f78e4f'; 
         const IKLAN = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3kvdmC7dAKO4NEBIHYqzIVCpCUjPipqTOwGJ-PZceBRYHQIhRI61imk6t2QXqJBBRsI4MYazWX1ecCGLery0jUwK9fkPpv7YQHKvE1W4OzRqHpal3VMsAvwl1pwYx28_-wP1KS9nq2EaR2E2qv3hw0k_mbfo9FagXNwhYNaOmZGRreSQwn2XsZ4FCyiw_/s1600/1200x1200iklan.jpg';
-        const MUTIARA_QALBU = 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//100/MTA-38116738/brd-44261_buku-mutiara-qolbu-qalbu-jilid-2-oleh-moh-fachrurrozy_full02.jpg'; 
+        const Station_Offline = 'https://cdn.bintangtenggarafm.com/img/offline.jpg'; 
         if (a == 'Commercial Break') {var z = Commercial_Break;}
             else if (a == 'Bintang Tenggara') {var z = Bintang_Tenggara;}
             else if (a == 'JINGLE SETELAH IKLAN') {var z = JINGLESETELAHIKLAN;}
@@ -632,7 +632,7 @@ var mrpjq = jQuery;
             else if (a == 'Second Civil') {var z = Second_Civil;}
             else if (a == 'Ismi Azis') {var z = Ismi_Azis;}
             else if (a == 'IKLAN') {var z = IKLAN;}
-            else if (a == 'MUTIARA QALBU') {var z = MUTIARA_QALBU;}
+            else if (a == 'Station Offline') {var z = Station_Offline;}
             else {var z = ta;}
         for (c = 0; c < Za; c++) a = pb(a), b = qb(b);
         var c = I[C] + "https://itunes.apple.com/search?type=jsonp&term=" + encodeURI(a) + "-" + encodeURI(b) + "&media=music&limit=1";
