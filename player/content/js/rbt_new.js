@@ -534,8 +534,8 @@ var mrpjq = jQuery;
       else if (g[y].thumb) {
         var a = g[y].artist,
             b = g[y].title;
-        const Commercial_Break = 'https://warningfm.github.io/v3/img/podUnZj.png';
-        const Bintang_Tenggara = 'https://i.imgur.com/f4lFmfc.png';
+        const Commercial_Break = 'https://live.staticflickr.com/65535/55032544297_53d5328f81_z.jpg';
+        const Bintang_Tenggara = 'https://cdn4.mbahnunungonline.net/img/f4lFmfc..png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
         const TS = 'https://warningfm.github.io/v3/img/vAFxMxc.png';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
