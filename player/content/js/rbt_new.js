@@ -11,9 +11,9 @@ jQuery(document).ready(function($){
     lastPlayedInterval:10000,
     createHistoryList:true,
     getHistoryArtwork:true,
-    defaultHistoryArtwork: "data/default_artwork/star_small.png",
+    defaultHistoryArtwork: "data/default_artwork/rbt_cover_small.png",
     getPlayerArtwork:true,
-    defaultPlayerArtwork: "data/default_artwork/star.png,
+    defaultPlayerArtwork: "data/default_artwork/rbt_cover.png,
     createRadioList:false,
     };
     $("#mrp-wrapper").mrp(settings);
