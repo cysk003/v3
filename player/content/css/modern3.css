@@ -21,8 +21,8 @@ body,html{
 #mrp-wrapper{
 	position:relative;
 	font-family: Arial, Helvetica, sans-serif;
-	max-width:320px;
-	margin: 50px auto;
+	max-width:270px;
+	margin: 0px auto;
 	-moz-box-shadow: 1px 1px 15px #333;
     -webkit-box-shadow: 1px 1px 15px #333;
     box-shadow: 1px 1px 15px #333;
@@ -32,7 +32,7 @@ body,html{
 	position: relative;
     left: 0;
     top: 0;
-    height: 320px;
+    height: 270px;
     overflow: hidden;
 }
 .mrp-contr-btn{
@@ -111,6 +111,14 @@ body,html{
 	color:#eee;
 	padding:0;
 }
+
+.mrp-player-artist1{
+	font-size:13px;
+	margin:0;
+	color:#eee;
+	padding:0;
+}
+
 .mrp-player-controls-wrap{
 	display: flex;
     position: relative;
