@@ -11,9 +11,9 @@ jQuery(document).ready(function($){
     lastPlayedInterval:10000,
     createHistoryList:true,
     getHistoryArtwork:true,
-    defaultHistoryArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png",
+    defaultHistoryArtwork: "data/default_artwork/star_small.png",
     getPlayerArtwork:true,
-    defaultPlayerArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png",
+    defaultPlayerArtwork: "data/default_artwork/star.png,
     createRadioList:false,
     };
     $("#mrp-wrapper").mrp(settings);
