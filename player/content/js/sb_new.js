@@ -533,7 +533,7 @@ var mrpjq = jQuery;
       else if (!M && 0 < y) B();
       else if (g[y].thumb) {
         var a = g[y].artist,
-          b = g[y].title;
+            b = g[y].title;
         const HAZAFIT = 'https://id-test-11.slatic.net/p/b3a25c4966350da984bc04983b527d6e.jpg';
         const Commercial_Break = "https://live.staticflickr.com/65535/53805955404_bc1c26a8c8_z.jpg";
         const Raisa = 'https://i.scdn.co/image/ab67616d0000b2738bd2fdd47fa594b1362682a9';
