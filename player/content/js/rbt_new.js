@@ -583,7 +583,7 @@ var mrpjq = jQuery;
         const Second_Civil = 'https://i.scdn.co/image/ab67616d0000b2732f75cb4fe81408c68d9e847d'; 
         const Ismi_Azis = 'https://i.scdn.co/image/ab67616d0000b273835d5ee8832686e418f78e4f'; 
         const IKLAN = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3kvdmC7dAKO4NEBIHYqzIVCpCUjPipqTOwGJ-PZceBRYHQIhRI61imk6t2QXqJBBRsI4MYazWX1ecCGLery0jUwK9fkPpv7YQHKvE1W4OzRqHpal3VMsAvwl1pwYx28_-wP1KS9nq2EaR2E2qv3hw0k_mbfo9FagXNwhYNaOmZGRreSQwn2XsZ4FCyiw_/s1600/1200x1200iklan.jpg';
-        const Station_Offline = 'https://cdn.bintangtenggarafm.com/img/offline.jpg'; 
+        const MUTIARA_QALBU = 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//100/MTA-38116738/brd-44261_buku-mutiara-qolbu-qalbu-jilid-2-oleh-moh-fachrurrozy_full02.jpg'; 
         if (a == 'Commercial Break') {var z = Commercial_Break;}
             else if (a == 'Bintang Tenggara') {var z = Bintang_Tenggara;}
             else if (a == 'JINGLE SETELAH IKLAN') {var z = JINGLESETELAHIKLAN;}
@@ -632,7 +632,7 @@ var mrpjq = jQuery;
             else if (a == 'Second Civil') {var z = Second_Civil;}
             else if (a == 'Ismi Azis') {var z = Ismi_Azis;}
             else if (a == 'IKLAN') {var z = IKLAN;}
-            else if (a == 'Station Offline') {var z = Station_Offline;}
+            else if (a == 'MUTIARA QALBU') {var z = MUTIARA_QALBU;}
             else {var z = ta;}
         for (c = 0; c < Za; c++) a = pb(a), b = qb(b);
         var c = I[C] + "https://itunes.apple.com/search?type=jsonp&term=" + encodeURI(a) + "-" + encodeURI(b) + "&media=music&limit=1";
