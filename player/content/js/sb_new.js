@@ -918,7 +918,7 @@ var mrpjq = jQuery;
       playerArtworkSize: "640x640bb",
       instanceName: "player" + Math.floor(1E6 * Math.random()),
       defaultHistoryArtwork: "data/default_artwork/star_small.png",
-      defaultPlayerArtwork: "data/default_artwork/podcast.png",
+      defaultPlayerArtwork: "data/default_artwork/star.png",
       defaultSongTitle: "...",
       defaultSongArtist: "...",
       whatsAppWarning: "Please share this content on mobile device!",
