@@ -345,7 +345,7 @@ body,html{
     height: 40px;
     margin-left:-20px;
 	margin-top:-20px;
-    background-color: #03a9f4;
+    background-color: #FF0000;
     -webkit-animation: mrp_preloader 1.2s infinite ease-in-out;
     animation: mrp_preloader 1.2s infinite ease-in-out;
 }
