@@ -218,7 +218,7 @@ body,html{
 	overflow:hidden;
 }
 .mrp-playlist-bar{
-	color: #ccc;
+	color: #00f;
 	height: 32px;
     display: flex;
     align-items: center;
