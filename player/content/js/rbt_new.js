@@ -589,7 +589,7 @@ var mrpjq = jQuery;
             else if (a == 'JINGLE SETELAH IKLAN') {var z = JINGLESETELAHIKLAN;}
             else if (a == 'TS') {var z = TS;}
             else if (a == 'DENGAR KAMI') {var z = Dengarkami;}
-            else if (a == 'JINGLE') {var urlCoverArt = JINGLE;}
+            else if (a == 'JINGLE') {var z = JINGLE;}
             else if (a == 'TANDA WAKTU SHOLAT DHUHUR') {var z = TANDAWAKTUSHOLATDHUHUR;}
             else if (a == 'TANDA WAKTU SHOLAT ASHAR') {var z = ASHAR;}
             else if (a == 'ADZAN MAGHRIB') {var z = ADZANMAGHRIB;}
