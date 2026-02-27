@@ -11,9 +11,9 @@ jQuery(document).ready(function($){
     lastPlayedInterval:10000,
     createHistoryList:true,
     getHistoryArtwork:true,
+    defaultPlayerArtwork: "",
     defaultHistoryArtwork: "",
     getPlayerArtwork:true,
-    defaultPlayerArtwork: "",
     createRadioList:false,
     };
     $("#mrp-wrapper").mrp(settings);
