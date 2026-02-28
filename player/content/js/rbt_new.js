@@ -8,7 +8,7 @@ jQuery(document).ready(function($){
     scrollOrientation:"horizontal",
     scrollTheme:"minimal-dark",
     facebookAppId:"",
-    lastPlayedInterval:20000,
+    lastPlayedInterval:15000,
     createHistoryList:true,
     getHistoryArtwork:true,
     defaultPlayerArtwork: "",
@@ -569,13 +569,21 @@ var mrpjq = jQuery;
         const TAHUKAH_ANDA = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgtNm-H7v4NN3ibwE-_yLPhMVdetUfOUYL9x8YYs4QQRpzvo0emUq1OuaR-LMMAoNKeqJxHK4TFavoPS8GfxZyJdOpdnf0RPn5UlQ4kURFbcdMRr7sB37xM-Qb0QxzmDq65Eh9FkQHEM6US2Y8lOxZgIV_pyBdO3MTcIRDkal6xquL1Hi6-XwodtxAAOb/s1600/taukahAnda.jpg'; 
         const Alfina_Nindiyani  = 'https://i.scdn.co/image/ab67616d0000b273946b5d7310dc575af58ac613'; 
         const OPENING  = 'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/grand-opening-design-template-3a37c804c55cf85d2ba959af479c656d_screen.jpg?ts=1575735007'; 
-        const TS_MAGHRIB  = 'https://thumbs2.imgbox.com/ee/79/665Dlrr2_t.jpg'; 
+        const TS_MAGHRIB  = 'https://thumbs2.imgbox.com/ee/79/665Dlrr2_t.jpg';
+        const Galang_Sanubari  = 'https://img.bintangtenggarafm.com/2025/07/DEN_54031.jpg';
+        const Sarah_Sofyan  = 'https://img.bintangtenggarafm.com/2025/07/DEN_53432.jpg';
+        const Zefya_Rani  = 'https://img.bintangtenggarafm.com/2025/07/ZEFYA-RANI.jpg';
+        const Rima_Indah  = 'https://img.bintangtenggarafm.com/2025/07/Rima.jpg';
+        const Okki_Nila  = 'https://img.bintangtenggarafm.com/2025/07/OKKI-NILA.jpg';
+        const Anita_Sumardi  = 'https://img.bintangtenggarafm.com/2025/07/Anita.jpg';
+        const Nurul_Hidayah  = 'https://img.bintangtenggarafm.com/2025/07/Nurul_Hidayah.jpg';
         const CLOSING  = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvJpO-eAcjIJ4w2y6YQMxNpaB7FEO9Z_GqZUDsp97gEg3BtCVGePx0vX56MiTTpsnVpjm8xoUif8ifFQFYNcfcJihj-rWw-1ik3rhtU5hDJ1uyy184-w7U6Gmisnp58bcOFIeS9lxFEg7RI_VenietESGTzEgnz5TBkYH9WBvpD-aylJtfqfyqGwm93L1a/s1600/ms5QoI6.jpg'; 
         const Alda_Risma  = 'https://i.scdn.co/image/ab67616d0000b2734fd8f936305cb28b2bb53ab7'; 
         const PERISTIWA_HARI_INI  = 'https://cdn.bintangtenggarafm.com/img/nTZlhHe.jpg'; 
         const BMKG  = 'https://thumbs2.imgbox.com/8a/f0/fFJLDlC0_t.jpg'; 
         const Mayang_Sari  = 'https://i.scdn.co/image/ab67616d0000b2733deb71f184e845a821d500d6'; 
-        const Samsons = 'https://images.genius.com/6ef0ad66be031798666d9f8e2305aca9.640x640x1.jpg'; 
+        const Samsons = 'https://images.genius.com/6ef0ad66be031798666d9f8e2305aca9.640x640x1.jpg';
+        const Daeng_syawal_mubarok = 'https://i.scdn.co/image/ab67616d00001e02d614531c0de5a49b7f6ad166';
         const TANDA_WAKTU_SHOLAT_ISYA = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzt-WdylfzOt4IZmb5vj6PbWsGNOGpV8YlrDTs7fejgDXPUhPI3BZ46RGlcEQGZJ9odFY0F6b9nNLHLHkXQRv8ihvehx7hIv6fz9gsclWh-gA22pMZuoVZNQvralLXFH6DLGAuAIWN400HhQkL3XmycIIopi0EZCT8TqTdhpFUYSMsFrz-jGhGOtluDwW3/s1600/uSKMZns.jpg'; 
         const Anisa_Rahman = 'https://i.scdn.co/image/ab67616d0000b273948e6ac1d0bc98d8269b9697'; 
         const Anggun = 'https://i.scdn.co/image/ab67616d0000b273068bcbbb986ad0ee76c02f76'; 
@@ -614,21 +622,29 @@ var mrpjq = jQuery;
             else if (a == 'T.R.I.A.D') {var z = TRIAD;}
             else if (a == 'Kotak') {var z = Kotak;}
             else if (a == 'Kirana Setio') {var z = Kirana_Setio;}
-            else if (a == 'Alma Esbeye') {var z = Alma_Esbeye;} 
-            else if (a == 'TAHUKAH ANDA') {var z = TAHUKAH_ANDA;} 
-            else if (a == 'Alfina Nindiyani') {var z = Alfina_Nindiyani;} 
-            else if (a == 'OPENING') {var z = OPENING;} 
-            else if (a == 'TS MAGHRIB') {var z = TS_MAGHRIB;} 
-            else if (a == 'CLOSING') {var z = CLOSING;} 
-            else if (a == 'Alda Risma') {var z = Alda_Risma;} 
-            else if (a == 'PERISTIWA HARI INI') {var z = PERISTIWA_HARI_INI;} 
+            else if (a == 'Alma Esbeye') {var z = Alma_Esbeye;}
+            else if (a == 'TAHUKAH ANDA') {var z = TAHUKAH_ANDA;}
+            else if (a == 'Alfina Nindiyani') {var z = Alfina_Nindiyani;}
+            else if (a == 'OPENING') {var z = OPENING;}
+            else if (a == 'TS MAGHRIB') {var z = TS_MAGHRIB;}
+            else if (a == 'GALANG SANUBARI') {var z = Galang_Sanubari;}
+            else if (a == 'SARAH SOFYAN') {var z = Sarah_Sofyan;}
+            else if (a == 'ZEFYA RANI') {var z = Zefya_Rani;}
+            else if (a == 'RIMA INDAH') {var z = Rima_Indah;}
+            else if (a == 'OKKI NILA') {var z = Okki_Nila;}
+            else if (a == 'ANITA SUMARDI') {var z = Anita_Sumardi;}
+            else if (a == 'NURUL HIDAYAH') {var z = Nurul_Hidayah;}
+            else if (a == 'CLOSING') {var z = CLOSING;}
+            else if (a == 'Alda Risma') {var z = Alda_Risma;}
+            else if (a == 'PERISTIWA HARI INI') {var z = PERISTIWA_HARI_INI;}
             else if (a == 'BMKG') {var z = BMKG;}  
-            else if (a == 'Mayang Sari') {var z = Mayang_Sari;} 
-            else if (a == 'Samsons') {var z = Samsons;} 
-            else if (a == 'TANDA WAKTU SHOLAT ISYA') {var z = TANDA_WAKTU_SHOLAT_ISYA;} 
-            else if (a == 'Anisa Rahman') {var z = Anisa_Rahman;} 
-            else if (a == 'Anggun') {var z = Anggun;} 
-            else if (a == 'Power Slaves') {var z = Power_Slaves;} 
+            else if (a == 'Mayang Sari') {var z = Mayang_Sari;}
+            else if (a == 'Samsons') {var z = Samsons;}
+            else if (a == 'Daeng syawal mubarok') {var z = Daeng_syawal_mubarok;}
+            else if (a == 'TANDA WAKTU SHOLAT ISYA') {var z = TANDA_WAKTU_SHOLAT_ISYA;}
+            else if (a == 'Anisa Rahman') {var z = Anisa_Rahman;}
+            else if (a == 'Anggun') {var z = Anggun;}
+            else if (a == 'Power Slaves') {var z = Power_Slaves;}
             else if (a == 'Second Civil') {var z = Second_Civil;}
             else if (a == 'Ismi Azis') {var z = Ismi_Azis;}
             else if (a == 'IKLAN') {var z = IKLAN;}
@@ -914,7 +930,7 @@ var mrpjq = jQuery;
       cors: "https://cors.mediastreaming.it/",
       getPlayerArtwork: !0,
       getHistoryArtwork: !1,
-      createHistoryList: !0,
+      createHistoryList: !1,
       playerArtworkSize: "640x640bb",
       instanceName: "player" + Math.floor(1E6 * Math.random()),
       defaultHistoryArtwork: "",
@@ -925,7 +941,7 @@ var mrpjq = jQuery;
       playlistTitleArtistSeparator: "",
       hideVolumeOnIOS: !0,
       useCorsForAudio: !1,
-      enableCors: !0
+      enableCors: !1
     }, c);
     var da = MRPUtils.isMobile();
     MRPUtils.hasLocalStorage();
