@@ -11,9 +11,9 @@ jQuery(document).ready(function($){
     lastPlayedInterval:10000,
     createHistoryList:true,
     getHistoryArtwork:true,
-    defaultHistoryArtwork: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUt1y8kc37oTu6DXxp_tyj2A9gh8EXHbtBRKhp2-a_fBE0xJN109bQwAughzBGka7aiDvOo8G1pQH8q87Sr8dVf3JaiYHt-Cq4Ddtq3FywzcfoXoDGlKmOje-LHFarxEu1NBxlr1aMBhzZENJtPmhl7PluvYP2r3pTK586OjdbCpb2NUkVg-zVv0Wcxs/s1600/wbyZ7wp.png",
+    defaultHistoryArtwork: "",
     getPlayerArtwork:true,
-    defaultPlayerArtwork: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUt1y8kc37oTu6DXxp_tyj2A9gh8EXHbtBRKhp2-a_fBE0xJN109bQwAughzBGka7aiDvOo8G1pQH8q87Sr8dVf3JaiYHt-Cq4Ddtq3FywzcfoXoDGlKmOje-LHFarxEu1NBxlr1aMBhzZENJtPmhl7PluvYP2r3pTK586OjdbCpb2NUkVg-zVv0Wcxs/s1600/wbyZ7wp.png",
+    defaultPlayerArtwork: "",
     createRadioList:false,
     };
     $("#mrp-wrapper").mrp(settings);
