@@ -328,10 +328,10 @@ body,html{
     justify-content: space-around;
 }
 .mrp-playlist-title{
-	color:#888;
+	color:#000;
 }
 .mrp-playlist-artist{
-	color:#ccc;
+	color:#000;
 }
 .mrp-tooltip{
 	position:absolute;
