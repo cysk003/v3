@@ -1,23 +1,3 @@
-jQuery(document).ready(function($){
-    var settings = {
-    instanceName:"horizontal",
-    sourcePath:"",
-    activePlaylist:".playlist1",
-    volume:0.95,
-    useScroll:true,
-    scrollOrientation:"horizontal",
-    scrollTheme:"minimal-dark",
-    facebookAppId:"",
-    lastPlayedInterval:10000,
-    createHistoryList:true,
-    getHistoryArtwork:true,
-    defaultPlayerArtwork: "",
-    defaultHistoryArtwork: "",
-    getPlayerArtwork:true,
-    createRadioList:false,
-    };
-    $("#mrp-wrapper").mrp(settings);
-    });
 
 var mrpjq = jQuery;
 (function (d) {
