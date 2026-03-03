@@ -1,23 +1,14 @@
-jQuery(document).ready(function($){
-    var settings = {
-    instanceName:"horizontal",
-    sourcePath:"",
-    activePlaylist:".playlist1",
-    volume:0.75,
-    useScroll:true,
-    scrollOrientation:"horizontal",
-    scrollTheme:"minimal-dark",
-    facebookAppId:"",
-    lastPlayedInterval:10000,
-    createHistoryList:true,
-    getHistoryArtwork:true,
-    defaultHistoryArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png",
-    getPlayerArtwork:true,
-    defaultPlayerArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png",
-    createRadioList:false,
-    };
-    $("#mrp-wrapper").mrp(settings);
-    });
+/*
+The MIT License (MIT) 
+PARAN JARE RIKO
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
 
 var mrpjq = jQuery;
 (function (d) {
@@ -533,7 +524,7 @@ var mrpjq = jQuery;
       else if (!M && 0 < y) B();
       else if (g[y].thumb) {
         var a = g[y].artist,
-          b = g[y].title;
+            b = g[y].title;
         const Commercial_Break = 'https://warningfm.github.io/v3/img/podUnZj.png';
         const Bintang_Tenggara = 'https://cdn.bintangtenggarafm.com/img/f69c7be1aa497aaa87f40d2306c4b3577.png';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
@@ -918,14 +909,14 @@ var mrpjq = jQuery;
       playerArtworkSize: "640x640bb",
       instanceName: "player" + Math.floor(1E6 * Math.random()),
       defaultHistoryArtwork: "data/default_artwork/star_small.png",
-      defaultPlayerArtwork: "data/default_artwork/star.png",
+      defaultPlayerArtwork: "data/default_artwork/podcast.png",
       defaultSongTitle: "...",
       defaultSongArtist: "...",
       whatsAppWarning: "Please share this content on mobile device!",
       playlistTitleArtistSeparator: "",
       hideVolumeOnIOS: !0,
       useCorsForAudio: !1,
-      enableCors: !0
+      enableCors: !1
     }, c);
     var da = MRPUtils.isMobile();
     MRPUtils.hasLocalStorage();
