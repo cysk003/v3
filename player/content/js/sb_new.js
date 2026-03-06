@@ -903,7 +903,7 @@ var mrpjq = jQuery;
       });
     c = d.extend(!0, {}, {
       playlistList: "#mrp-playlist-list",
-      volume: .5,
+      volume: .9,
       preload: "auto",
       togglePlaybackOnMultipleInstances: !0,
       useKeyboardNavigationForPlayback: !1,
@@ -917,13 +917,13 @@ var mrpjq = jQuery;
       instanceName: "player" + Math.floor(1E6 * Math.random()),
       defaultHistoryArtwork: "data/default_artwork/star_small.png",
       defaultPlayerArtwork: "data/default_artwork/star.png",
-      defaultSongTitle: "...",
-      defaultSongArtist: "...",
+      defaultSongTitle: "Informatif Solutif",
+      defaultSongArtist: "Suara Banyuwangi",
       whatsAppWarning: "Please share this content on mobile device!",
       playlistTitleArtistSeparator: "",
       hideVolumeOnIOS: !0,
       useCorsForAudio: !1,
-      enableCors: !0
+      enableCors: !1
     }, c);
     var da = MRPUtils.isMobile();
     MRPUtils.hasLocalStorage();
