@@ -3,13 +3,13 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>side</title>
+		<title>Side Modern Radio Player with Playlist</title>
        
 		<link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.css" media="all" /><!-- playlist scroll -->
 		<link id="mrp-css" rel="stylesheet" type="text/css" href="css/side2.css" />
        
         <script src="js/jquery-3.2.1.min.js"></script>
-       <script src="js/fluoz.js"></script>		
+        <script src="js/new.js"></script>			
         <script type="text/javascript">
 
             var player;
@@ -18,8 +18,8 @@
                 var settings = {
                     instanceName:"side",
                     sourcePath:"",
-                    activePlaylist:"#playlist1",
-                    volume:0.7,
+                    activePlaylist:".playlist2",
+                    volume:0.8,
                     autoPlay:true,
                     useScroll:true,
                     scrollOrientation:"vertical",
@@ -31,7 +31,7 @@
                     getHistoryArtwork:true,
                     defaultHistoryArtwork: "data/default_artwork/star_small.png",
                     getPlayerArtwork:true,
-                    defaultPlayerArtwork: "data/default_artwork/star.png"
+                    defaultPlayerArtwork: "https://cdn.bintangtenggarafm.com/img/rbtfm-640.png"
                 };
                 
                 player = $("#mrp-wrapper").mrp(settings);
@@ -109,10 +109,9 @@
                             <svg viewBox="0 0 448 512"><path d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>
                         </div>    
                     </div>
-			<div class="mrp-player-artist"></div>
 
+                    <div class="mrp-player-artist"></div>
                     <div class="mrp-player-title"></div>
-                    
                 </div>
                   
             </div>
@@ -143,15 +142,13 @@
         <!-- PLAYLIST LIST -->
         <div id="mrp-playlist-list">
             
-            <div id="playlist1" class="mrp-playlist" data-type="shoutcast" data-radio-url="https://asv.alhastream.com:4070/;"></div>
-            
-            <div id="playlist2" class="mrp-playlist" data-type="icecast" data-radio-url="https://sv.stri.my.id:3350/rbtfm"></div>
+            <!-- <div id="playlist1" class="mrp-playlist" data-type="shoutcast" data-radio-url="https://asv.alhastream.com:4070/;"></div>  -->
 
-            <!-- <div class="mrp-playlist-item playlist1" data-type="icecast" data-radio-url="https://sv.stri.my.id:3350/rbtfm" data-radio-title="Bintang Tenggara 56k" data-radio-thumb="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png"></div>
+            <div class="mrp-playlist-item playlist1" data-type="icecast" data-radio-url="https://sv.stri.my.id:3350/rbtfm" data-radio-title="Bintang Tenggara 56k" data-radio-thumb="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png"></div>
 
             <div class="mrp-playlist-item playlist2" data-type="shoutcast" data-radio-url="https://asv.alhastream.com:4070/;" data-radio-title="Bintang Tenggara 64k" data-radio-thumb="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png"></div>
 
-            <div class="mrp-playlist-item playlist3" data-type="shoutcast" data-radio-url="https://sv3.stri.my.id:5423/;" data-radio-title="Bintang Tenggara 64k" data-radio-thumb="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png"></div> -->
+            <div class="mrp-playlist-item playlist3" data-type="shoutcast" data-radio-url="https://sv3.stri.my.id:5423/;" data-radio-title="Bintang Tenggara 64k" data-radio-thumb="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png"></div>
 
         </div>    
 
