@@ -10,31 +10,38 @@
        
         <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
         <script src="js/rbt_new.js?1"></script>		
-        <script type="text/javascript">
+       <script type="text/javascript">
 
             var player;
-            jQuery(document).ready(function($){     
+            jQuery(document).ready(function($){
+                
                 var settings = {
-                    instanceName:"radio1",
+                    instanceName:"side1",
                     sourcePath:"",
-                    cssUrl:"css/side1.css",
-                    activePlaylist:"#playlist1",
-                    volume:0.75,
+                    activePlaylist:".playlist1",
+                    volume:0.9,
                     autoPlay:true,
                     useScroll:true,
                     scrollOrientation:"vertical",
                     scrollTheme:"minimal-dark",
-                    //cors: "https://cors.mediastreaming.it/",
                     facebookAppId:"",
                     lastPlayedInterval:10000,
-                    createRadioList:false,
-                    createHistoryList:true,
+                    createHistoryList:false,
                     getHistoryArtwork:true,
-                    defaultHistoryArtwork: "https://live.staticflickr.com/65535/55119390167_b59f10aeae_b.jpg",
+                    defaultHistoryArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png",
                     getPlayerArtwork:true,
-                    defaultPlayerArtwork: "https://live.staticflickr.com/65535/55119390167_b59f10aeae_b.jpg"
-                };               
-                player = $("#mrp-wrapper").mrp(settings);
+                    defaultPlayerArtwork: "https://cdn.bintangtenggarafm.com/img/cover-rbtfm.png", 
+                    defaultSongArtist: "Bintang Tenggara", 
+                    defaultSongTitle: "FM 95.6 MHz", 
+                    createRadioList:false,
+                    enableCors:false,
+                    cors: "https://zet.pluginsandthemes.ro/",
+                    
+                    
+                };
+
+                $("#mrp-wrapper").mrp(settings);
+
             });
 
         </script>
