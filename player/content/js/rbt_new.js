@@ -642,7 +642,7 @@ var mrpjq = jQuery;
             else if (a == 'Station Offline') {var z = Station_Offline;}
             else {var z = ta;}
         for (c = 0; c < Za; c++) a = pb(a), b = qb(b);
-        var c = I[C] + "https://itunes.apple.com/search?type=jsonp&term==" + encodeURI(a) + "-" + encodeURI(b) + "&media=music&limit=1";
+        var c = I[C] + "https://itunes.apple.com/search?term=" + encodeURI(a) + "-" + encodeURI(b) + "&media=music&limit=1";
         a = new XMLHttpRequest;
         a.onerror = function (a) {};
         a.onreadystatechange = function () {
