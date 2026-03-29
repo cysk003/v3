@@ -714,7 +714,7 @@ var mrpjq = jQuery;
             useKeyboardNavigationForPlayback: !1,
             scrollOrientation: "vertical",
             scrollTheme: "minimal",
-            cors: "https://cors.mediastreaming.it/",
+            cors: "https://zet.pluginsandthemes.ro/",
             getPlayerArtwork: !0,
             getHistoryArtwork: !1,
             createHistoryList: !0,
