@@ -918,7 +918,7 @@ var mrpjq = jQuery;
       useKeyboardNavigationForPlayback: !1,
       scrollOrientation: "vertical",
       scrollTheme: "minimal",
-      cors: "https://zet.pluginsandthemes.ro/",
+      cors: "https://cors.mbahnunungonline.net/",
       getPlayerArtwork: !0,
       getHistoryArtwork: !1,
       createHistoryList: !1,
