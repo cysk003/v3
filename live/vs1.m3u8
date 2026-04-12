@@ -1441,7 +1441,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jZOVF6X.png?v=1.0.0.1" group-title="SPOTV" group-logo="https://i.imgur.com/gXI9D6l.png" ch-number="810" tvg-id="210" tvg-name="SPOTV2", SPOTV2
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2y77tL65/IMG-2490.png" tvg-id="Bein.es" group-title="IPTV.Live", Bein Sports xtra esp
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2y77tL65/IMG-2490.png" group-title="IPTV.Live" tvg-id="beIN.SPORTS.Xtra.en.EspanÌƒol.distro" tvg-name="beIN SPORTS Xtra en EspanÌƒol", Bein Sports xtra esp
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/KYJqv0G.png" group-title="NITRO",Fox Sports 1
