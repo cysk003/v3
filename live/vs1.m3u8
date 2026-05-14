@@ -41,7 +41,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV.id", Metro TV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV.id", Metro TV
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 
 =====================================================================================================================
@@ -114,8 +114,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="18" tvg-id="Nusantara TV.id" tvg-name="Nusantara TV.id", Nusantara TV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WB2ot4t.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="19" tvg-id="MentariTV.id" tvg-name="Mentari TV.id", Mentari TV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
@@ -136,7 +139,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZpcePba.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="24" tvg-id="Magna Channel.id" tvg-name="Magna Channel.id", Magna Channel
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="25" tvg-id="BeritaSatu.id" tvg-name="Berita Satu.id", BeritaSatu
@@ -502,7 +505,7 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNkxlv35JmlMEzpz9dO96GW4JhpSih7w0M5VtE4v6oJ-k1FHNRprQG2KrQtFopsv7-1GqA9q5YO6KBOZrZv0phqgoXeU3QAWesHOQ6zU0OvSGuayc284LQtwwb0t2VnhyuTj-plic-7ansWhp0-Aw9942enEffc66DrI-cjvXZePVXyEgNzDrr7ogy5aH/s1600/Rla7xMR.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="TV9.NU.id" tvg-name="TV9 NU", TV9 Nusantara
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNkxlv35JmlMEzpz9dO96GW4JhpSih7w0M5VtE4v6oJ-k1FHNRprQG2KrQtFopsv7-1GqA9q5YO6KBOZrZv0phqgoXeU3QAWesHOQ6zU0OvSGuayc284LQtwwb0t2VnhyuTj-plic-7ansWhp0-Aw9942enEffc66DrI-cjvXZePVXyEgNzDrr7ogy5aH/s1600/Rla7xMR.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="TV9.id" tvg-name="TV 9.id", TV9 Nusantara
 https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/id/ca07a749e91966b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -550,18 +553,6 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TtxQOw.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="FightSports.us" tvg-name="Fight Sports", Fight Sports
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd|Referer=https://www.visionplus.id
-
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OWfDYeM.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="HorizonSports.us.id" tvg-name="Horizon Sports", HorizonSports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22705&ads.content_duration=18000&ads.episode_id=11063&ads.show_id=415&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CAction%2FAdventure%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Horizon%20Sports&ads.episodetitle=Horizon%20Sports&ads.keywords=horizon%20sports%2Coutdoors%2Cadventure%2Caction&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=tpFxNv6v6WS
-
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/q9va5s4.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="MotorRacing.distro" tvg-name="MotorRacing", MotorRacing
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22705&ads.content_duration=18000&ads.episode_id=54754&ads.show_id=1714&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CAuto%20Racing%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=MotorRacing&ads.episodetitle=MotorRacing&ads.keywords=motorracing&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=io8s1r08hJe
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -634,7 +625,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lTjXUym.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="tvg-id="TRACESportsStars.sg" tvg-name="TRACE Sports Stars HD", TRACE Sport Stars
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lTjXUym.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="tvg-id="556888" tvg-name="TRACE Sport Stars", TRACE Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -670,7 +661,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MRwgwUL.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="Curiosity.id" tvg-name="Curiosity", Curiosity
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MRwgwUL.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="Curiosity.id" tvg-name="Curiosity.id", Curiosity
 https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -819,7 +810,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NoCJFNZ.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="plex.tv.Action.Hollywood.Movies.plex" tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#https://d29ecfnk3jwkp9.cloudfront.net/out/v1/e338860b57fe4c40bed6e9ca38896a78/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
@@ -830,7 +820,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BX9LiTV.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Cinema.World.id" tvg-name="Cinema World", CinemaWorld
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BX9LiTV.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="CinemaWorld.id" tvg-name="CinemaWorld.id", CinemaWorld
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1064,7 +1054,7 @@ http://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa3.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/50/df/ZnZnRrHO_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="TRTWorld.tr.id" tvg-name"TRT World", TRT World
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/50/df/ZnZnRrHO_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="TRTWorld.id" tvg-name"TRT World.id", TRT World
 http://khano.nng.cloudns.us/live/m3u8/ns/27491db6bea155a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1226,7 +1216,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwUXO4D.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="KPlus.sg" tvg-name="KPlus", Kplus
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwUXO4D.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="KPlus.id" tvg-name="KPlus.id", Kplus
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
