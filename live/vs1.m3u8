@@ -1065,7 +1065,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/4d/9d/4DNDSG7x_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="AlJazeera.Arabic.net" tvg-name="Al Jazeera Arabic", AlJazeera Arabic
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/4d/9d/4DNDSG7x_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="AlJazeeraArabic.id" tvg-name="Al Jazeera Arabic.id", AlJazeera Arabic
 http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 #https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
 
@@ -1112,7 +1112,8 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/40/66/WE6Vp6WA_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1"tvg-id="Kaloopy.distro" tvg-name="Kaloopy", Kaloopy
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/9a117dd2af0701172e8ef4737b03aecfaacc46c1/2f760b7cf8286be.m3u8
+#https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/9a117dd2af0701172e8ef4737b03aecfaacc46c1/2f760b7cf8286be.m3u8
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c1/80/kTOs22US_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1", MiamiTV Fashion
