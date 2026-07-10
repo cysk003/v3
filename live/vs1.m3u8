@@ -83,7 +83,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="12" tvg-id="MDTV.id" tvg-name="MDTV.id", MDTV
-http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58c.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -144,7 +144,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZpcePba.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="24" tvg-id="Magna Channel.id" tvg-name="Magna Channel.id", Magna Channel
-http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="25" tvg-id="BeritaSatu.id" tvg-name="Berita Satu.id", BeritaSatu
@@ -232,7 +232,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1GW0BTz.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="TVRI.id" tvg-name="TVRI", TVRI Jawa Timur
-http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/VLR16Or.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="TVKU" tvg-name="TVKU", TVKU
@@ -999,7 +1000,8 @@ http://cdn.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa3.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fc/ab/I3Luhpup_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="BBCNews.id" tvg-name"BBC News", BBC News
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/a7/95/YleXFiJZ_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="CNA" tvg-name"CNA", CNA
@@ -1234,7 +1236,8 @@ https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/ra
 #http://khano.nng.cloudns.us/live/m3u8/my/Bernama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDBy2bh.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TVOkey.my" tvg-name="TV Okey", TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
+http://iptv.kilas7.com/live/kaukia/asdfrewq/32.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BCopt1L.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV1.my" tvg-name="TV1", TV1 HD
